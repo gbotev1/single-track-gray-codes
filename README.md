@@ -4,7 +4,7 @@ Fair (ISEF) 2015.
 ## Abstract
 Gray codes are sequences of binary codewords with numerous applications in telecommunications,
  robotics, error correction, combinatorics, and graph theory. Single-track Gray
- codes are a subclass of Gray codes that can be specied by a single binary
+ codes are a subclass of Gray codes that can be specified by a single binary
  vector. These codes can be constructed from a seed code, which becomes
  computationally difficult to generate for bit-lengths greater than 37. A
  general construction for single-track Gray codes is introduced, and the
